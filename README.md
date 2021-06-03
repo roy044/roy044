@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arindam Roy</h1>
 
-<h3 align="center">A CSE Sophmore who loves programming and exploring new fields :D</h3>
+<h3 align="center">A CSE Sophmore who loves programming and exploring new fields :smiley: </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy044" alt="roy044" /></a> </p>
 
