@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy044" alt="roy044" /></a> </p>
 
-- 🔭 I’m currently working on [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://github.com/roy044/100-Days-of-Code-The-Complete-Python)
+- 🔭 I’m currently working on  [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://github.com/roy044/100-Days-of-Code-The-Complete-Python)
 
-- 🌱 I’m currently learning **Full Stack Web Development + Machine Learning**
+- 🌱 I’m currently learning  **Full Stack Web Development + Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/roy044](github.com/roy044)
+- 👨‍💻 All of my projects are available at  [Projects](github.com/roy044)
 
-- 💬 Ask me about **java , python , c , c++**
+- 💬 Ask me about  **Java , Python , C , C++**
 
-- 📫 How to reach me **arindamroy044@gmail.com**
+- 📫 How to reach me  [Email](arindamroy044@gmail.com) , [Linked In](https://www.linkedin.com/in/arindam-roy-271209192/) 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing](https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing)
+- 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
