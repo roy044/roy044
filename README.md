@@ -3,10 +3,14 @@
   
   I'm <a href="https://www.linkedin.com/in/arindam-roy-271209192/">Arindam Roy</h1>
 
-<h3 align="center">A CSE Sophmore who loves programming  and exploring new fields :smiley: </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A CSE Sophmore who loves programming  and exploring new fields <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy044" alt="roy044" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy044" alt="roy044" /></a> </p>
 
+ <br />
+<img align="right" height="300px" width="300px" alt="GIF" src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47qqmjhl9ebkol1c9pa7rpqtd7jomctkcsofpmeq4d&rid=giphy.gif&ct=g" /> 
+
+  
 - 🔭 I’m currently working on  [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://github.com/roy044/100-Days-of-Code-The-Complete-Python)
 
 - 🌱 I’m currently learning  **Full Stack Web Development + Machine Learning**
@@ -15,7 +19,7 @@
 
 - 💬 Ask me about  **Java , Python , C , C++**
 
-- 📫 How to reach me  [Email](mailto:arindamroy044@gmail.com) , [Linked In](https://www.linkedin.com/in/arindam-roy-271209192/) 
+- 📫 How to reach me via  [Email](mailto:arindamroy044@gmail.com) or [Linked In](https://www.linkedin.com/in/arindam-roy-271209192/) 
 
 - 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing)
 
