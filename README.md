@@ -12,7 +12,7 @@
 
 - 💬 Ask me about  **Java , Python , C , C++**
 
-- 📫 How to reach me  [Email](<a href="mailto:name@email.com">Link text</a>) , [Linked In](https://www.linkedin.com/in/arindam-roy-271209192/) 
+- 📫 How to reach me  [Email](<a href="mailto:arindamroy044@gmail.com">Link text</a>) , [Linked In](https://www.linkedin.com/in/arindam-roy-271209192/) 
 
 - 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing)
 
