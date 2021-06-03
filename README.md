@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arindam Roy</h1>
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👱🏼‍♂️
+  
+  
+  I'm <a href="https://www.linkedin.com/in/arindam-roy-271209192/">Arindam Roy</h1>
 
-<h3 align="center">A CSE Sophmore who loves programming and exploring new fields :smiley: </h3>
+<h3 align="center">A CSE Sophmore who loves programming  and exploring new fields :smiley: </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy044" alt="roy044" /></a> </p>
 
@@ -16,7 +19,7 @@
 
 - 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I can make you laugh **
 
 
 
