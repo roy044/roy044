@@ -19,7 +19,7 @@
 
 - 💬 Ask me about  **Java , Python , C , C++**
 
-- 📫 How to reach me via  [Email](mailto:arindamroy044@gmail.com) or [Linked In](https://www.linkedin.com/in/arindam-roy-271209192/) 
+- 📫 How to reach me via  [Email](mailto:arindamroy044@gmail.com)  [Linked In](https://www.linkedin.com/in/arindam-roy-271209192/) 
 
 - 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing)
 
