@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👱🏼‍♂️
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
   
-  I'm <a href="https://www.linkedin.com/in/arindam-roy-271209192/">Arindam Roy</h1>
+  I'm <a href="https://www.linkedin.com/in/arindam-roy-271209192/">Arindam Roy<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="70px"></h1>
 
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A CSE Sophmore who loves programming  and exploring new fields <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
