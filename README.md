@@ -5,7 +5,7 @@
 
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">A CSE Sophmore who loves programming  and exploring new fields <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy044" alt="roy044" /></a> </p>
+
 
  <br />
 <img align="right" height="300px" width="300px" alt="GIF" src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47qqmjhl9ebkol1c9pa7rpqtd7jomctkcsofpmeq4d&rid=giphy.gif&ct=g" /> 
