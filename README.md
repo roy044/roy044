@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1dF7ZDsJhK84wgDOzIODC7TYJIvEYEQjw/view?usp=sharing)
 
-- ⚡ Fun fact  **I think I can make you laugh**
+- ⚡ Fun fact  **There are 10 types of people in this world, those who understand binary and those who don't.**
 
 
 
